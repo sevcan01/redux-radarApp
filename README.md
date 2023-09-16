@@ -1,9 +1,16 @@
+This project includes a flight radar application developed using 
+React, 
+Redux Toolkit,
+Thunk. 
+This application allows you to track flights in real-time 
+
+
+
+
+https://github.com/sevcan01/redux-radarApp/assets/127621405/2fe6763e-29af-489d-97ba-9dc0de9da245
+
+
+
+
+
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# redux-radarApp
